@@ -1,4 +1,4 @@
-package org;
+package org.acj;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
